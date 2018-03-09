@@ -1,0 +1,17 @@
+[
+  {
+    "amount": 100,
+    "account": "cash",
+    "tag": "restaurant"
+  },
+  {
+    "amount": 200,
+    "account": "cash",
+    "tag": "groceries"
+  },
+  {
+    "amount": 300,
+    "account": "privat",
+    "tag": "transport"
+  }
+]
