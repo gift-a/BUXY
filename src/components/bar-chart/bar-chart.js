@@ -40,6 +40,9 @@ export class BarChartComponent {
         ]
       },
       options: {
+        legend: {
+          display: false
+        },
         scales: {
           yAxes: [
             {
